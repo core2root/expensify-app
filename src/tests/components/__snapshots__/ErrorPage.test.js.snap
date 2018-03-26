@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render page not found correctly 1`] = `
+<div>
+  <p>
+    Oops! looks like this page doesen't exist 
+    <b>
+      CODE: 404
+    </b>
+     
+  </p>
+  <Link
+    replace={false}
+    to="/"
+  >
+    Go Home
+  </Link>
+</div>
+`;
