@@ -29,7 +29,6 @@ class ExpenseFilters extends React.Component{
           type='text'
           value={this.props.filters.text} onChange={(e) => {
             this.props.dispatch(setTextFilter(e.target.value))
-            console.log(e.target.value)
           }
           } />
         <select
