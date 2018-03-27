@@ -12,9 +12,9 @@ exports[`should render expense item with provided expense object 1`] = `
   </h3>
   <p>
     Amount: 
-    195
-     Created At: 
-    Sun Dec 28 1969 02:00:00 GMT+0200 (Jerusalem Standard Time)
+    $1.95
+     - Created At: 
+    28th December, 1969
   </p>
 </div>
 `;
